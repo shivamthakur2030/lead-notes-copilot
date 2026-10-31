@@ -1,0 +1,6 @@
+.env
+myenv/
+__pycache__/
+.pytest_cache/
+*.pyc
+docker-build.log
